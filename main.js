@@ -1,3 +1,4 @@
+
 const BLOCK_NUM_HEIGHT = 15;
 const BLOCK_NUM_WIDTH = 15;
 const BACK_GROUND_COLOR = 'white';
